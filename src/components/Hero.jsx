@@ -3,6 +3,7 @@ import { logo } from '../assets';
 const Hero = () => {
   return (
     <header className='w-full flex justify-center items-center flex-col'>
+      <nav className='flex justify-between items-center w-full mb-10 pt-3'>
         <img src="/src/assets/Briefly.png" alt="sumz_logo" className='w-28 ml-3 object-contain scale-150'/>
         
         <button type='button' onClick={() => window.open("https://github.com/OtarJinchveladze")} className='black_btn'>
