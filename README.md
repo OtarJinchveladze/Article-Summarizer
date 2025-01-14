@@ -1,1 +1,1 @@
-
+The Article Summarizer is a web application designed to simplify the process of extracting key insights and summaries from long articles. Built with React, this tool leverages advanced APIs to deliver concise, accurate, and readable summaries in seconds.
